@@ -1,6 +1,6 @@
 # Mafia God Assistant
 
-A Codex skill for moderating real-world Mafia / Werewolves party games.
+a skill ai agents for moderating real-world Mafia / Werewolves party game.
 
 The skill turns the assistant into an operational "God" helper for the human moderator. It tracks hidden game state, role assignments, night actions, day outcomes, eliminations, and possible win conditions while keeping public readouts separate from private moderator notes.
 
@@ -28,3 +28,6 @@ The assistant is designed to be moderator-facing only. It should not address pla
 The default setup supports a 12-player game with Mafia, Town, and Neutral roles, including God Father Mafia, Evil Guesser Mafia, Blackmailer, Detectives, Doctors, Jester, Fattu, Sheriff, Dhurandhar, and Villager.
 
 Custom role lists are also supported when the moderator provides role counts and any needed role rules.
+
+## Customization
+Feel free to ask the game about roles, default states, customise the game and add new roles with different powers.
