@@ -1,6 +1,6 @@
 # Mafia God Assistant
 
-a skill ai agents for moderating real-world Mafia / Werewolves party game.
+a skill for ai agents to help the moderator manage the real-world Mafia / Werewolves party game.
 
 The skill turns the assistant into an operational "God" helper for the human moderator. It tracks hidden game state, role assignments, night actions, day outcomes, eliminations, and possible win conditions while keeping public readouts separate from private moderator notes.
 
